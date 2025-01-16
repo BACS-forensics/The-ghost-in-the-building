@@ -21,5 +21,6 @@ Here is an article related to the dataset:
 
 Bengtsson, J. (2025). **_The ghost in the building: Non-invasive spoofing and covert attacks on automated buildings_**. DOI: [10.1016/j.fsidi.2025.301880](https://doi.org/10.1016/j.fsidi.2025.301880) URL: https://www.sciencedirect.com/science/article/pii/S2666281725000198
 
+Non-invasive covert attacks on PIR sensors are seen here: [BACS Forensics](https://www.youtube.com/playlist?list=PLuCtZEa9ct6o-fO9ocV_oWPH5ZtSUEdT2).
 
 For further questions, feel free to post a message to bacs.forensics@gmail.com.
