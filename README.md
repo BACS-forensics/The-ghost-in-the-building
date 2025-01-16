@@ -17,4 +17,8 @@ You can click the Preview link to take a look at your changes.
 
 This account is related to building automation and control system (BACS) forensics.
 
+Here is an article related to the dataset:
+Bengtsson, J. (2025). __The ghost in the building: Non-invasive spoofing and covert attacks on automated buildings__. DOI: 10.1016/j.fsidi.2025.301880 URL: https://www.sciencedirect.com/science/article/pii/S2666281725000198
+
+
 For further questions, feel free to post a message to bacs.forensics@gmail.com.
